@@ -2,7 +2,7 @@
 Clone do layout da plataforma Disney Plus, utilizando filmes da api TMDb
 
 
-#Visualize o projeto ⬇️
+Visualize o projeto ⬇️
 
 https://clone-disney-plus-api.netlify.app/
 
